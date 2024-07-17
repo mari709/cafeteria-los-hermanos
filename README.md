@@ -28,7 +28,7 @@
 - **Servidor:**
     - Subir la página a un servidor web accesible.
     - Verificar que todos los elementos se visualicen y funcionen correctamente en el entorno de producción.
-**Estilos Personalizados:** 
-  - Verificar que todos los elementos se visualicen y funcionen correctamente en el entorno de producción.
-  - En caso de incluir estilos propios, crearlos en una hoja de estilos separada.
-  - Asegurar que los estilos personalizados no entren en conflicto con los estilos predeterminados.
+- **Estilos Personalizados:** 
+    - Verificar que todos los elementos se visualicen y funcionen correctamente en el entorno de producción.
+    - En caso de incluir estilos propios, crearlos en una hoja de estilos separada.
+    - Asegurar que los estilos personalizados no entren en conflicto con los estilos predeterminados.
