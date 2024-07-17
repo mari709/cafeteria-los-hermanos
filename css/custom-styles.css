@@ -1,8 +1,17 @@
-* {
-    background-color: var(b);
+h1, h2, h3, h4 {
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
-.logo {
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2.4rem;
+}
+  .logo {
     width: 250px;
     height: auto;
 }
@@ -58,7 +67,7 @@ header {
     overflow: hidden;
 }
 
-.bg-hermanos {
+.bg-hermanos, .primary-color {
     background-color: #6f4323;
 }
 
