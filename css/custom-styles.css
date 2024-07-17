@@ -61,6 +61,17 @@ header {
 .bg-hermanos {
     background-color: #6f4323;
 }
+
+.color-hermanos {
+    color: #6f4323;
+}
 .bg-hermanos-opacidad {
     background-color: #6f4323bf;
+}
+.secondary-hermanos {
+    color: #DFC27C;
+}
+
+.bg-secondary-hermanos {
+    background-color: #DFC27C;
 }
