@@ -65,11 +65,19 @@ header {
 .color-hermanos {
     color: #6f4323;
 }
+
+.color-hermanos:hover {
+    color: #6f4323bf;
+}
 .bg-hermanos-opacidad {
     background-color: #6f4323bf;
 }
 .secondary-hermanos {
     color: #DFC27C;
+}
+
+.secondary-hermanos:hover {
+    color: #6f4323bf;
 }
 
 .bg-secondary-hermanos {
