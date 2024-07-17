@@ -31,3 +31,5 @@
 - **Estilos Personalizados:** 
     - En caso de incluir estilos propios, crearlos en una hoja de estilos separada.
     - Asegurar que los estilos personalizados no entren en conflicto con los estilos predeterminados.
+
+Se parte de la plantilla https://startbootstrap.com/template/scrolling-nav
