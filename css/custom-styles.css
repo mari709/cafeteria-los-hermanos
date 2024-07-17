@@ -75,7 +75,7 @@ header {
     color: #6f4323;
 }
 
-.color-hermanos:hover {
+a.color-hermanos:hover {
     color: #6f4323bf;
 }
 .bg-hermanos-opacidad {
